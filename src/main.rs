@@ -135,7 +135,6 @@ fn main(){
 
 #[cfg(test)]
 mod tests {
-    use std::fmt::Error;
 
     use super::*;
     use tokio::net::TcpListener;
